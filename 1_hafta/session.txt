@@ -1,0 +1,19 @@
+data = {
+    'Credentials': {
+        'AccessKeyId': 'ASIARUF266IVHPFFU2AU',
+        'SecretAccessKey': 'R7i4KnHrZ8upQ/kcsHsTsM4uechTGx2xruwCzhn9',
+        'SessionToken': 'FwoGZXIvYXdzEHUaDIGCGrKLMUhLG4TCsiKCASCTXJbmjbLefUwiRh5qyo8BYaPD57BElLyXm/96IyJhyqYbpbKmAUdMRQkRW0Gxlg5hdLl4fyRJssT3gHTGf9pVY+yL3OuD3yMqE0nYe+e1+f2zVk2YrqxWggAVsTiN28S8zGNjI/RwRxDsauKnlT66Qw9Bl2xlVKOsV7u1QkXFo8sopZPZrgYyKGljOUvO/bAT5rGmBGnPNJJK3IkBNVnZVaL+JM3CxgzwckKfnAiVI=',
+        'Expiration': '2024-02-22T07:06:13Z'
+    },
+    'ResponseMetadata': {
+        'RequestId': '1f9371bb-6344-40f0-9404-8a653721e820',
+        'HTTPStatusCode': 200,
+        'HTTPHeaders': {
+            'x-amzn-requestid': '1f9371bb-6344-40f0-9404-8a653721e820',
+            'content-type': 'text/xml',
+            'content-length': '800',
+            'date': 'Wed, 21 Feb 2024 19:06:13 GMT'
+        },
+        'RetryAttempts': 0
+    }
+}
