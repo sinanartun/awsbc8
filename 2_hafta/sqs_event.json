@@ -1,0 +1,21 @@
+{
+  "Records": [
+    {
+      "messageId": "49035c1d-e657-45aa-8820-e86b72f5a40f",
+      "receiptHandle": "AQEBVvfggFFVuO8N2sxqPlM8br0wG+vzAlOXYbjTd0/gi7HXFePrpv0MI/IrZXeLXNZVBRiY8x1Ih6HDEt+E5nNTNoSmDgxmNN8Q/o2ZGVyHZjowTbACEssDYfF+kJNwvYVD1eYQ9Q3nBLaj7R4DMWIi5YNq7OCrYJqGUJm8XZgGric+9YRULx29jJkTaANJSMEoM5hGG8aA0k7HE5/3sMJYYdyVZhV2wlfqKkgv3EvZF040uxXDtdCywoOjC32mfIZrvHyNXY9jpErGD3pQDdsOkysMf9L82apZN8Go9UK7/jvLbExeGYJzgRCn2wCy43JlOyjEW+hfa9R+2dDbk2VVUtdJ/wSBNzGqD7JNTgxTvwNgucqlqhjomymfQhIUjKFg",
+      "body": "[\"A1CAP\", \"a1cap-a1-capital-yatirim/\"]",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "AWSTraceHeader": "Root=1-65e0dbe9-3a4b64a266ee50f11c52fb3a;Parent=665515e63b4edeb4;Sampled=0;Lineage=15508927:0",
+        "SentTimestamp": "1709235178324",
+        "SenderId": "AROARUF266IVLTQ3ZSF5D:lambda_to_sqs",
+        "ApproximateFirstReceiveTimestamp": "1709235178326"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "7b9ccea83f564f1ca069cea36a4cacd3",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:eu-north-1:112061248042:mynet",
+      "awsRegion": "eu-north-1"
+    }
+  ]
+}
