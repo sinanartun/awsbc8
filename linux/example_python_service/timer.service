@@ -1,0 +1,17 @@
+# /etc/systemd/system/timer.service
+[Unit]
+Description= Timer Service
+
+[Service] 
+# Specify the user that will run the service
+User=ec2-user
+Type=simple
+ExecStart=/usr/bin/python3 /home/ec2-user/service/timer.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
+# sudo systemctl daemon-reload
+# sudo systemctl start timer.service
+# sudo systemctl enable timer.service

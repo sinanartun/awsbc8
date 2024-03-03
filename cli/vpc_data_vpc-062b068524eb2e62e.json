@@ -1,0 +1,17 @@
+{
+    "az_list": [
+        "eu-central-1a",
+        "eu-central-1b",
+        "eu-central-1c"
+    ],
+    "ig_id": "igw-0d4fe0802b5468dc7",
+    "route_id": "rtb-028d91a2525e0538c",
+    "route_table_id": "rtb-028d91a2525e0538c",
+    "subnet_ids": [
+        "subnet-03b670070b968bea7",
+        "subnet-06ee9c86c4e434bab",
+        "subnet-07b6da44e5503b9b3"
+    ],
+    "vpc_id": "vpc-062b068524eb2e62e",
+    "vpce_s3_id": "vpce-0537b3926a32b8bae"
+}
