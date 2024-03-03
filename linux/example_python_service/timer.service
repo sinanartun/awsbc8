@@ -6,7 +6,7 @@ Description= Timer Service
 # Specify the user that will run the service
 User=ec2-user
 Type=simple
-ExecStart=/usr/bin/python3 /home/ec2-user/service/timer.py
+ExecStart=/usr/bin/python3 /home/ec2-user/awsbc8/linux/example_python_service/timer.py
 Restart=always
 
 [Install]
