@@ -1,5 +1,4 @@
 import datetime
-import os
 import time
 
 while True:
@@ -9,4 +8,4 @@ while True:
    with open(filename, "w") as f:
       f.write(timestamp)
 
-   time.sleep(1)  # pause for 1 second
+   time.sleep(1)
