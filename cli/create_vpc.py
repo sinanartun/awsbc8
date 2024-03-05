@@ -4,7 +4,7 @@ from botocore.config import Config
 import pprint
 import json
 
-os.environ['AWS_PROFILE'] = 'miuul'
+os.environ['AWS_PROFILE'] = 'default'
 my_config = Config(
     region_name = 'eu-north-1',
     signature_version = 'v4',
